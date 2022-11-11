@@ -1,5 +1,7 @@
 ## data-lineage-parent
 
+> 参考别人的项目，计划在这之上按自己的需求定制化
+
 > 数据血缘，使用各种hook或sql解析，统一将血缘信息存到kafka后，在neo4j中进行储存展现
 
 ### 1. lineage-hooks
